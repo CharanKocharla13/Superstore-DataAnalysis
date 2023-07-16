@@ -1,4 +1,4 @@
-# Superstore Data Analysis
+# Superstore Data Analytics
 
 This repository contains the code and analysis for the Superstore data analysis project. The project aims to analyze the sales and customer data of a fictional Superstore and derive insights to improve business performance.
 
