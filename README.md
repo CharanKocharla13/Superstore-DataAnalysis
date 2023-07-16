@@ -15,11 +15,11 @@ This repository contains the code and analysis for the Superstore data analysis 
 
 In today's competitive business landscape, understanding sales patterns, customer behavior, and market trends is crucial for success. This project focuses on performing a comprehensive analysis of the Superstore data to gain valuable insights that can drive business decisions.
 
-The main analysis file is `superstoreanalysis.ipynb`. It is a Jupyter Notebook that contains the code, explanations, and visualizations for the analysis. The notebook walks through various steps, including data preprocessing, exploratory data analysis, and deriving insights from the Superstore dataset.
+The main analysis file is [superstoreanalysis.ipynb](superstoreanalysis.ipynb). It is a Jupyter Notebook that contains the code, explanations, and visualizations for the analysis. The notebook walks through various steps, including data preprocessing, exploratory data analysis, and deriving insights from the Superstore dataset.
 
 ## Dataset
 
-The dataset used for this analysis is the `SampleSuperstore.csv` file, which is available in the repository. It represents the sales data of a retail store and includes information about sales transactions, customers, products, regions, and other relevant attributes.
+The dataset used for this analysis is the [SampleSuperstore.csv](SampleSuperstore.csv) file, which is available in the repository. It represents the sales data of a retail store and includes information about sales transactions, customers, products, regions, and other relevant attributes.
 
 ## Installation
 
@@ -39,7 +39,7 @@ cd Superstore-DataAnalysis
 
 ## Usage
 
-Once you have cloned the repository and navigated to the project directory, you can open and run the `superstoreanalysis.ipynb` file using Jupyter Notebook or JupyterLab. This notebook provides a step-by-step guide for the analysis, along with explanations and code snippets.
+Once you have cloned the repository and navigated to the project directory, you can open and run the [superstoreanalysis.ipynb](superstoreanalysis.ipynb) file using Jupyter Notebook or JupyterLab. This notebook provides a step-by-step guide for the analysis, along with explanations and code snippets.
 
 Make sure you have the required dependencies installed. You can install them by running the following command:
 
